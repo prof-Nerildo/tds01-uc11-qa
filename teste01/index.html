@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Testes de QA - teste 01</title>
+    <style>
+        body{
+            font-family: sans-serif;
+            padding: 20px;
+        }
+        h1{
+            border-bottom: 2px solid #333;
+        }
+        #resultados{
+            list-style: none;
+            padding-left: 0;
+        }
+        #resultados li{
+            padding: 8px;
+            margin-bottom: 5px;
+            border-radius: 4px;
+            font-weight: bold;
+        }
+        .passou{
+            color: #0d6836;
+            background: #d1f3e0;
+            border: 1px solid #75d09c;
+        }
+        .falhou{
+            color: #a30e1f;
+            background: #f8d7da;
+            border: 1px solid #f5c6cb;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Resultado dos testes (QA de caixa braca)</h1>
+    <ul id="resultados">
+
+    </ul>
+    <!--
+        Uso o type - tipo de arquivo gravado
+        'module' -- é o que 'liga' a capacidade do navegador
+        entender os comandos de 'import' e 'export'
+    -->
+    <script type="module" src="runner2.js"></script>
+
+</body>
+</html>
+
+
