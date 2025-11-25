@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("backEndGamesTito.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ef9bcea9a66fc0c7763911c608b1e69f12b9f49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+323fdff35b58ee355a55d2f2e772d1978e6b6ab3")]
 [assembly: System.Reflection.AssemblyProductAttribute("backEndGamesTito.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("backEndGamesTito.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

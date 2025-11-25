@@ -9,7 +9,7 @@ namespace backEndGamesTito.API.Models
         public string NomeCompleto { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "O campo email é obrigatório!")]
-        [EmailAddress(ErrorMessage = "O email informado não é valido!")]
+        [EmailAddress(ErrorMessage = "O email informado não é valido.")]
         public string Email { get; set; } = string.Empty;
 
         [Required(ErrorMessage = "O campo senha é obrigatório!")]
