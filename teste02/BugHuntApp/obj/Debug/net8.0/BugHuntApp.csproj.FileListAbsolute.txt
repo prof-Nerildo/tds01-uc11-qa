@@ -1,0 +1,15 @@
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\bin\Debug\net8.0\BugHuntApp.exe
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\bin\Debug\net8.0\BugHuntApp.deps.json
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\bin\Debug\net8.0\BugHuntApp.runtimeconfig.json
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\bin\Debug\net8.0\BugHuntApp.dll
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\bin\Debug\net8.0\BugHuntApp.pdb
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\obj\Debug\net8.0\BugHuntApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\obj\Debug\net8.0\BugHuntApp.AssemblyInfoInputs.cache
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\obj\Debug\net8.0\BugHuntApp.AssemblyInfo.cs
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\obj\Debug\net8.0\BugHuntApp.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\obj\Debug\net8.0\BugHuntApp.sourcelink.json
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\obj\Debug\net8.0\BugHuntApp.dll
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\obj\Debug\net8.0\refint\BugHuntApp.dll
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\obj\Debug\net8.0\BugHuntApp.pdb
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\obj\Debug\net8.0\BugHuntApp.genruntimeconfig.cache
+C:\xampp\htdocs\tds01-uc11-qa\teste02\BugHuntApp\obj\Debug\net8.0\ref\BugHuntApp.dll
